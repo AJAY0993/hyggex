@@ -1,4 +1,4 @@
-# Vite React App
+# hyggex
 
 This repository contains a Vite-based React application that mirrors the design provided in Figma. The application is set up to closely resemble the design and is ready for further development or customization.
 
@@ -15,7 +15,7 @@ To set up this project locally, follow these steps:
 2. **Navigate into the project directory:**
 
    ```bash
-   cd vite-react-app
+   cd hyggex
    ```
 
 3. **Install dependencies:**
