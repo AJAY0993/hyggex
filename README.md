@@ -33,3 +33,7 @@ npm run dev
 ```
 
 This will start the development server. You can view the app by opening http://localhost:5173 in your web browser.
+
+## Live Preview
+
+You can view the live preview of the application [here](https://hyggex-kappa.vercel.app/).
